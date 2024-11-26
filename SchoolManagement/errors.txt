@@ -1,0 +1,21 @@
+2024-11-10 - Table/View 'TBLFORMV' does not exist.
+2024-11-10 - Table/View 'TBLFORMVB' does not exist.
+2024-11-10 at 23:08:28.974068600 - Table/View 'TBLFORMV' does not exist.
+2024-11-15 at 17:01:34.947312100 - There is no column named: Email.  
+2024-11-15 at 17:17:10.660425200 - Column 'SCHOOLADDRESS' is either not in any table in the FROM list or appears within a join specification and is outside the scope of the join specification or appears in a HAVING clause and is not in the GROUP BY list. If this is a CREATE or ALTER TABLE  statement then 'SCHOOLADDRESS' is not a column in the target table.
+2024-11-17 at 00:42:02.622831300 - Syntax error: Encountered "..." at line 1, column 23.
+2024-11-17 at 00:43:11.033695500 - Column 'SCHOOLADDRESS' is either not in any table in the FROM list or appears within a join specification and is outside the scope of the join specification or appears in a HAVING clause and is not in the GROUP BY list. If this is a CREATE or ALTER TABLE  statement then 'SCHOOLADDRESS' is not a column in the target table.
+2024-11-17 at 01:22:28.117100500 - A truncation error was encountered trying to shrink CHAR 'Male' to length 1.
+2024-11-17 at 02:05:35.223989100 - Column 'SCHOOLADDRESS' is either not in any table in the FROM list or appears within a join specification and is outside the scope of the join specification or appears in a HAVING clause and is not in the GROUP BY list. If this is a CREATE or ALTER TABLE  statement then 'SCHOOLADDRESS' is not a column in the target table.
+2024-11-17 at 02:07:33.546634600 - Column 'EDUCATORADDRESS' is either not in any table in the FROM list or appears within a join specification and is outside the scope of the join specification or appears in a HAVING clause and is not in the GROUP BY list. If this is a CREATE or ALTER TABLE  statement then 'EDUCATORADDRESS' is not a column in the target table.
+2024-11-22 at 15:10:20.773590100 - Invalid operation at current cursor position.
+2024-11-22 at 15:14:04.901525600 - Invalid operation at current cursor position.
+2024-11-22 at 15:14:35.975824800 - Invalid operation at current cursor position.
+2024-11-22 at 15:14:37.774751 - Invalid operation at current cursor position.
+2024-11-22 at 15:14:41.590532500 - Invalid operation at current cursor position.
+2024-11-22 at 15:14:42.040229300 - Invalid operation at current cursor position.
+2024-11-22 at 15:26:03.540712100 - Invalid operation at current cursor position.
+2024-11-22 at 15:26:05.237501600 - Invalid operation at current cursor position.
+2024-11-22 at 15:35:53.611204300 - Invalid operation at current cursor position.
+2024-11-22 at 15:36:06.533065400 - Invalid operation at current cursor position.
+2024-11-22 at 15:39:12.891252300 - Invalid operation at current cursor position.

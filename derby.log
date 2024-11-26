@@ -1,0 +1,14 @@
+Tue Nov 26 19:55:59 SAST 2024 : Apache Derby Network Server - 10.17.1.0 - (1913217) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Nov 26 19:56:07 SAST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0193-699d-8d75-ffffcbda0b00 
+on database directory C:\Users\unath\Documents\PRO - Portfolio\CDev - Java Projects\APP - School Management System\dbSkye with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e 
+Loaded from file:/C:/Program%20Files/Java/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.2+9-70
+user.dir=C:\Program Files\Java\db-derby-10.17.1.0-bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\unath\Documents\PRO - Portfolio\CDev - Java Projects\APP - School Management System
+Database Class Loader started - derby.database.classpath=''
